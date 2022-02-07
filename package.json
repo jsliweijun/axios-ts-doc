@@ -1,0 +1,27 @@
+{
+    "name": "axios-ts-doc",
+    "version": "1.0.0",
+    "description": "doc for axios-ts",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "deploy": "sh build.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "",
+    "devDependencies": {
+        "vuepress": "^1.0.0-alpha.44"
+    }
+}
