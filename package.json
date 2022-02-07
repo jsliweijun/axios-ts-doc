@@ -18,9 +18,9 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/jsliweijun/axios-ts-doc/issues"
     },
-    "homepage": "",
+    "homepage": "https://jsliweijun.github.io/axios-ts-doc/",
     "devDependencies": {
         "vuepress": "^1.9.7"
     }
