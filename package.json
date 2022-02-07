@@ -8,8 +8,8 @@
     },
     "scripts": {
         "dev": "vuepress dev docs",
-        "build": "vuepress build docs",
-        "deploy": "sh build.sh"
+        "docs:build": "vuepress build docs",
+        "deploy": "sh deploy.sh"
     },
     "repository": {
         "type": "git",
@@ -22,6 +22,6 @@
     },
     "homepage": "",
     "devDependencies": {
-        "vuepress": "^1.0.0-alpha.44"
+        "vuepress": "^1.9.7"
     }
 }
